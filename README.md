@@ -16,7 +16,7 @@ Cancer is prevalent across different cancer types.
 - The highest number (767) of patients who reported Prostate cancer are in stage II
 - The highest number (767) of patients who reported Colon cancer are in stage II 
 - 25.4% of patients had surgery as treatment type.
-- 5793 patients had complete remission, 5942 had no response and 5951 had partial remission across genetic marker.
+- 5793 patients had complete remission, 5942 had no response and 5951 had partial remission across genetic markers.
 
 ### Recommendation
 it is recommended that: 
