@@ -7,7 +7,7 @@
 
 [Cancer Data Visualization](#cancer-data-visualization)
 
-[Insights uncovered](#insights-covered)
+[Insights Uncovered](#insights-uncovered)
 
 [Recommendation](#recommendation)
 
