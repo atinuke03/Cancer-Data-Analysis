@@ -1,4 +1,6 @@
 # Project Title: Cancer-Data-Analysis
+
+# Outline
 [Overview](#overview)
 
 [Data cleaning and Preparation](data-cleaning-and-preparation)
