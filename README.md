@@ -1,6 +1,12 @@
 # Project Title: Cancer-Data-Analysis
 # Project Overview
 This repository presents an analysis of cancer-related data, focusing on identifying trends, treatment outcomes, and recurrence patterns. The aim is to enhance understanding of cancer progression and outcomes, contributing to improved strategies for patient care and treatment planning, while leveraging on PowerBI.the project provides visualizations and insights to support data-driven healthcare decisions. 
+
+### Data cleaning and Preparation
+At the initial phase of data cleaning and preparation, the following actions was performed:
+   - Data loading and inspection
+   - Data cleaning and formatting
+
 ## Cancer Data Visualization
 ![CANCER DATA CAPTURE](https://github.com/user-attachments/assets/903f7b9a-4c4b-47dd-bfd7-b86f324205eb)
 
